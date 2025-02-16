@@ -20,7 +20,7 @@ I gained hands-on experience in using Kotlin, managing data persistence with Sha
 user interface.
 
 
-[Software Demo Video]([https://ooo.mmhmm.app/watch/z_6Hw8Lf6xfVNfcl8Dvxkf])
+[Software Demo Video](https://ooo.mmhmm.app/watch/z_6Hw8Lf6xfVNfcl8Dvxkf)
 
 # Development Environment
 
