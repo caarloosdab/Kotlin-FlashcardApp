@@ -66,8 +66,8 @@ with others if needed.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Building an android app with kotlin]([https://medium.com/@atushar580/building-an-android-quiz-app-with-kotlin-a-step-by-step-guide-6361391eecad])
-* [Kotlin Documentation]([http://url.link.goes.here](https://kotlinlang.org/docs/getting-started.html))
+* [Building an android app with kotlin](https://medium.com/@atushar580/building-an-android-quiz-app-with-kotlin-a-step-by-step-guide-6361391eecad)
+* [Kotlin Documentation](https://kotlinlang.org/docs/getting-started.html)
 
 # Future Work
 
